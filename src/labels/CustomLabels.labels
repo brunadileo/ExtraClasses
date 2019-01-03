@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+<labels>
+        <fullName>BadgeMember</fullName>
+        <categories>ActivityTimeline</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>BadgeMember</shortDescription>
+        <value>You earned the {0} badge!</value>
+    </labels>
+<labels>
+        <fullName>CourseStatus</fullName>
+        <categories>ActivityTimeline</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CourseStatus</shortDescription>
+        <value>You completed course {0} !</value>
+    </labels>
+    <labels>
+        <fullName>EarnPoints</fullName>
+        <categories>ActivityTimeline</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>EarnPoints</shortDescription>
+        <value>You earned {0} points!</value>
+    </labels>
+    <labels>
+        <fullName>InvoiceApproved</fullName>
+        <categories>ActivityTimeline</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>InvoiceApproved</shortDescription>
+        <value>Your invoice {0} was approved.</value>
+    </labels>
+    <labels>
+        <fullName>InvoiceRejected</fullName>
+        <categories>ActivityTimeline</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>InvoiceRejected</shortDescription>
+        <value>Your invoice {0} was rejected.</value>
+    </labels>
+    <labels>
+        <fullName>InvoiceSubmit</fullName>
+        <categories>ActivityTimeline</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>InvoiceSubmit</shortDescription>
+        <value>You submitted invoice {0}.</value>
+    </labels>
+    <labels>
+        <fullName>LostPoints</fullName>
+        <categories>ActivityTimeline</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>LostPoints</shortDescription>
+        <value>You lost {0} points.</value>
+    </labels>
+    <labels>
+        <fullName>MemberLevel</fullName>
+        <categories>ActivityTimeline</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>MemberLevel</shortDescription>
+        <value>You reached level {0}!</value>
+    </labels>
+    <labels>
+        <fullName>ModuleResponse</fullName>
+        <categories>ActivityTimeline</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ModuleResponse</shortDescription>
+        <value>You were approved in module {0} with {1} of grade percentage. Congratulations!</value>
+    </labels>
+    <labels>
+        <fullName>Redemption</fullName>
+        <categories>ActivityTimeline</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Redemption</shortDescription>
+        <value>You redeemed {0} points.</value>
+    </labels>
+</CustomLabels>
