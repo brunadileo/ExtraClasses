@@ -32,8 +32,9 @@ startDate/endDate - dates to use as filter in query
 
 ### Example class - Event Object
 
-global class addEvent implements ActivityTimelineObject {
-    public static void addObject(List<ActivityTimelineModel> returnList, String objName, Id recordId, Date startDate, Date endDate){
+	global class addEvent implements ActivityTimelineObject {
+    	
+	public static void addObject(List<ActivityTimelineModel> returnList, String objName, Id recordId, Date startDate, Date endDate){
         
         String query = 'SELECT Id, FieloPLT__Type__c, Survey__c, FieloPLT__Member__c, ReferredMember__r.Name, CreatedDate FROM FieloPLT__Event__c ';
         String whereClause = 'WHERE FieloPLT__Member__c =: recordId ';
