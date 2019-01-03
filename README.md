@@ -26,9 +26,13 @@ global interface ActivityTimelineObject {
 ```
 
 returnList - list of ActivityTimelineModel objects that should contain all activities to be shown in the component
+
 objName - name of the object to query
+
 recordId - id of the member to use as filter in query
+
 startDate/endDate - dates to use as filter in query
+
 
 ### Example class - Event Object
 
