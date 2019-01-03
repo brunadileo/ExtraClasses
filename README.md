@@ -80,9 +80,9 @@ startDate/endDate - dates to use as filter in query
                 }
             }
         }
-    }
-}
+    }}
 
+Don't forget to add the object name (same of class name) to the component's property in Community Builder. 
 
 
 
