@@ -12,12 +12,6 @@
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
-### Test sth
- <a href="https://githubsfdeploy.herokuapp.com?owner=brunadileo&repo=ExtraClasses&ref=extraclasses">
-  <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
-</a>
-
 ### Activity Timeline Model
 
 The model object contains those fields:
